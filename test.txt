@@ -1,2 +1,7 @@
 Hello everyone,
 This is my first git file.
+
+Vegetables
+  potatoes
+  tomatoes
+  Onion
