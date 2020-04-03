@@ -5,3 +5,8 @@ Vegetables
   potatoes
   tomatoes
   Onion
+
+Fruits
+  Apple
+  Pineapple
+  Graps
