@@ -8,4 +8,4 @@ def multiplication(a,b) :
     pass
 
 def division(a,b) :
-    pass
+    return a/b
